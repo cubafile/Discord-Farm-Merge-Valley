@@ -95,6 +95,31 @@
 |`"energy_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"energy_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 
+#### Keys
+
+|Enum|Status|Function|
+|--|--|--|
+|`"reward_crate_key_bronze"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"reward_crate_key_silver"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"reward_crate_key_gold"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Chests
+
+|Enum|Status|Function|
+|--|--|--|
+|`"reward_crate_bronze"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"reward_crate_silver"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"reward_crate_gold"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Golden Carrot
+
+|Enum|Status|Function|
+|--|--|--|
+|`"golden_carrot"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"reward_crate_key_golden_carrot"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"reward_crate_golden_carrot"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+
 </details>
 
 ### Plant Spawn
